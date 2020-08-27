@@ -15,6 +15,8 @@ O objetivo desse exercício é criar um calendário para agendamento de eventos.
 1. Eventos podem ser criados, editados e apagados
 2. Eventos devem estar associado com um único usuário
 3. Eventos devem conter nome, descrição, data e horário
+    -   Exemplo: se houver um evento agendado para o dia 27/09/2020 iniciando as 08:00 e terminando as 10:00,
+    apenas poderão ser marcados eventos antes das 08:00 ou depois das 10:00 do dia 27/09/2020
 4. Eventos não podem ser marcado na mesma faixa horário
 5. Você pode utilizar o FullCalendar (https://fullcalendar.io/) para apresentação do calendário
 
