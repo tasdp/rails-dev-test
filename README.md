@@ -19,6 +19,7 @@ O objetivo desse exercício é criar um calendário para agendamento de eventos.
     apenas poderão ser marcados eventos antes das 08:00 ou depois das 10:00 do dia 27/09/2020
 4. Eventos não podem ser marcado na mesma faixa horário
 5. Você pode utilizar o FullCalendar (https://fullcalendar.io/) para apresentação do calendário
+6. Deve ser possível navegar pelos meses visualizando os eventos de cada mês isoladamente
 
 Extras:
  
