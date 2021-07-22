@@ -10,7 +10,7 @@ Este repositório contém uma aplicação usando o Rails 6.
 
 # Objetivo
 
-O objetivo desse exercício é criar um calendário para agendamento de eventos. Os critérios estão listados abaixo:
+O objetivo desse exercício é criar uma API de calendário para agendamento de eventos. Os critérios estão listados abaixo:
 
 1. Eventos podem ser criados, editados e apagados
 2. Eventos devem estar associado com um único usuário
@@ -18,12 +18,10 @@ O objetivo desse exercício é criar um calendário para agendamento de eventos.
     -   Exemplo: se houver um evento agendado para o dia 27/09/2020 iniciando as 08:00 e terminando as 10:00,
     apenas poderão ser marcados eventos antes das 08:00 ou depois das 10:00 do dia 27/09/2020
 4. Eventos não podem ser marcado na mesma faixa horário
-5. Você pode utilizar o FullCalendar (https://fullcalendar.io/) para apresentação do calendário
-6. Deve ser possível navegar pelos meses visualizando os eventos de cada mês isoladamente
 
 Extras:
  
- 1. Usar a gem Devise para gerenciar o acesso do usuário
+ 1. Usar JWT para gerenciar o acesso do usuário
  2. Arquivo de seeds.rb com código ruby para popular o banco
 
 
